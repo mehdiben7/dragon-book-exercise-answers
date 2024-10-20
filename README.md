@@ -1,4 +1,9 @@
 # Compilers Principles, Techniques, &amp; Tools (purple dragon book) second edition exercise answers
+## FORK!
+
+This repo is a fork of original repo by user `fool2fish`. I'm forking this repo because I intend on translating part of these answers to French (some were already in English, but others are in simplified Chinese).
+
+Utile pour le cours LOG3210 - Élément de langages et compilateurs de Polytechnique Montréal
 # 编译原理（紫龙书）中文第2版习题答案
 
 [![Join the chat at https://gitter.im/fool2fish/dragon-book-exercise-answers](https://badges.gitter.im/fool2fish/dragon-book-exercise-answers.svg)](https://gitter.im/fool2fish/dragon-book-exercise-answers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
